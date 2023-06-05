@@ -1,1 +1,3 @@
 Связал лок и удал репы
+С помощью $ git pull origin main --allow-unrelated-histories связал разные проекты
+Сделад пуш - $ git push --set-upstream origin main
